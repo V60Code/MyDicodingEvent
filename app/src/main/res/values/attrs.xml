@@ -1,0 +1,6 @@
+<resources>
+    <!-- Custom attribute for background color -->
+    <attr name="colorBackground" format="color" />
+    <!-- Custom attribute for card background color -->
+    <attr name="colorCardBackground" format="color" />
+</resources>

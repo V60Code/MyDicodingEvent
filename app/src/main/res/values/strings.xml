@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MyDicodingEvent</string>
+    <string name="event_image">Event Image</string>
+    <string name="event_time">Time: %1$s</string>
+    <string name="event_organizer">Hosted by: %1$s</string>
+    <string name="event_quota">Quota: %1$d remaining</string>
+    <string name="home">Home</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="finished">Finished</string>
+    <string name="upcoming_events">Upcoming Events</string>
+    <string name="event_name">Event Name</string>
+    <string name="img_event_cover">img_event_cover</string>
+    <string name="register">Register</string>
+    <string name="event_cover">Event Cover</string>
+    <string name="favorite">Favorite</string>
+    <string name="settings">Settings</string>
+    <string name="upcoming_events_description">List of upcoming events</string>
+    <string name="finished_events_description">finish event desc</string>
+    <string name="item_title">Item Title</string>
+    <string name="loading_upcoming_events">loading upcoming events</string>
+    <string name="loading_finished_events">loading finished events</string>
+    <string name="item_description_goes_here">Item description goes here</string>
+    <string name="no_favorite_events_found">No favorite events found</string>
+    <string name="button">button</string>
+</resources>

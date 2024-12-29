@@ -1,0 +1,16 @@
+<resources>
+    <!-- Base application theme for dark mode -->
+    <style name="Theme.MyDicodingEvent.Dark" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary colors -->
+        <item name="colorPrimary">@color/black</item>
+        <item name="colorPrimaryVariant">@color/black</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+
+        <!-- Background colors -->
+
+
+        <!-- Card colors -->
+
+        <!-- Text colors -->
+    </style>
+</resources>

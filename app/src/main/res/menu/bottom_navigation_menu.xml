@@ -1,0 +1,31 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Home item -->
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_home"
+        android:title="@string/home" />
+
+    <!-- Upcoming Events item -->
+    <item
+        android:id="@+id/nav_upcoming"
+        android:icon="@drawable/ic_upcoming"
+        android:title="@string/upcoming" />
+
+    <!-- Finished Events item -->
+    <item
+        android:id="@+id/nav_finished"
+        android:icon="@drawable/ic_finished"
+        android:title="@string/finished" />
+
+    <!-- Favorite item -->
+    <item
+        android:id="@+id/nav_favorite"
+        android:icon="@drawable/ic_favorite"
+        android:title="@string/favorite" />
+
+    <!-- Settings item -->
+    <item
+        android:id="@+id/nav_settings"
+        android:icon="@drawable/ic_settings"
+        android:title="@string/settings" />
+</menu>
